@@ -38,7 +38,7 @@
 
 **功能流程图**
 
-![help功能流程](https://images.gitee.com/uploads/images/2019/1216/182716_7f5cf513_1532308.png "help.png")
+![帮帮-核心功能流程图](https://images.gitee.com/uploads/images/2019/1222/143750_16391727_1532308.png "核心功能流程.png")
 
 ## 目标市场
 
